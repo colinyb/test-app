@@ -2,7 +2,12 @@
   "name": "test-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": 
   "dependencies": {
+    "@material-ui/core": "^3.9.2",
+    "gh-pages": "^2.0.1",
+    "pubnub": "^4.21.7",
+    "pubnub-react": "^1.2.0",
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
     "react-scripts": "2.1.5"
